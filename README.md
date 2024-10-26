@@ -21,10 +21,6 @@ Mentor: Muzammil Ahmed <Br />
 - **Responsive Design**: User-friendly navigation and interface optimized for both desktop and mobile.
 - **Red-Themed UI**: Consistent theme with a bold red color scheme.
 
-Here’s the **Tech Stack** section in README format:
-
----
-
 ## Tech Stack
 
 - **Frontend**: React, Tailwind CSS
