@@ -5,8 +5,6 @@ Domain: FULL STACK WEB DEVELOPMENT <Br />
 Duration: Aug to Nov 2024 <Br />
 Mentor: Muzammil Ahmed <Br />
 
-Here’s an example of how you could structure a concise README overview for your **Shopper** project:
-
 ---
 
 # Shopper
